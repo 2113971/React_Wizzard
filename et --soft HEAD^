@@ -1,0 +1,68 @@
+[33mcommit 521d0c86f75701b413e50a82b9e9d4a71135b05a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Anish Busviah <anish.busviah@umail.uom.ac.mu>
+Date:   Tue Apr 30 21:01:04 2024 +0400
+
+    added button component
+
+[33mcommit 48c54aad3883393b217cbcb18dcc9d22ce260112[m
+Author: Ish-30 <ishika.rajcoomar@umail.uom.ac.mu>
+Date:   Tue Apr 30 21:06:10 2024 +0400
+
+    Ishika - Sync
+
+[33mcommit 1b0d70104a7f76cfeaafa58456f4d4d1dfe98c1e[m
+Author: Ish-30 <ishika.rajcoomar@umail.uom.ac.mu>
+Date:   Tue Apr 30 21:01:14 2024 +0400
+
+    new Ishika
+
+[33mcommit 7582f66fca958f08c932a7fb101e1ae44f4affcb[m
+Author: Luqman <luqmanthupsee@gmail.com>
+Date:   Tue Apr 30 20:59:54 2024 +0400
+
+    luqman 2nd-commit
+
+[33mcommit f9503af73c2439fbfb515ecbd9a411de39e39c97[m
+Merge: b45ff83 4048dba
+Author: Luqman <luqmanthupsee@gmail.com>
+Date:   Tue Apr 30 20:57:55 2024 +0400
+
+    Merge branch 'main' of https://github.com/2113971/React_Wizzard
+
+[33mcommit 4048dba09582c420624bdab8fc6e0f9ab23d4d55[m
+Author: Ish-30 <ishika.rajcoomar@umail.uom.ac.mu>
+Date:   Tue Apr 30 20:53:59 2024 +0400
+
+    Ishika
+
+[33mcommit b45ff83eea10b4d03e35886e65e988eb193b60d2[m
+Author: Luqman <luqmanthupsee@gmail.com>
+Date:   Tue Apr 30 20:52:53 2024 +0400
+
+    1st commit
+
+[33mcommit 5c6335fb842854c973ebbe819b90339ccb1eb6e1[m
+Author: Anish Busviah <anish.busviah@umail.uom.ac.mu>
+Date:   Tue Apr 30 20:23:15 2024 +0400
+
+    initial commit
+
+[33mcommit 652120acd5e36dccac84fb9c736102978e8de683[m
+Author: Anish Busviah <anish.busviah@umail.uom.ac.mu>
+Date:   Tue Apr 30 20:19:53 2024 +0400
+
+    initial commit
+
+[33mcommit 11edc3879a0e0313a5b52ad534c99b527ab8eaf7[m
+Author: Anish Busviah <anish.busviah@umail.uom.ac.mu>
+Date:   Tue Apr 30 20:18:00 2024 +0400
+
+    Initial commit
+
+[33mcommit a291a07f210bd9dceb009d2598562291b92f175c[m
+Author: Anish Busviah <anish.busviah@umail.uom.ac.mu>
+Date:   Tue Apr 30 20:15:02 2024 +0400
+
+    Initial commit
+    
+    Basic React Project
