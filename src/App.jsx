@@ -2,6 +2,9 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+import SimpleButton from './components/myButton'
+import Message from './Message'
+
 import Luqman from './Luqman'
 import Ishika from './Ishika'
 
@@ -32,6 +35,7 @@ function App() {
         <Luqman/>
         Click on the Vite and React logos to learn more
       </p>
+      <div><SimpleButton colour="red" text="This is a button"/></div>
     </>
   )
 }
