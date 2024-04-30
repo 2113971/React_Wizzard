@@ -2,7 +2,7 @@ import React from 'react'
 
 function Ishika() {
   return (
-    <div>Ishika</div>
+    <div>Ishika's Here</div>
   )
 }
 
